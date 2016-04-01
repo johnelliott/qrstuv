@@ -1,6 +1,6 @@
 {
   "name": "qrstuv",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A clean and modern QR code reader for browsers",
   "main": "lib/qrcode.js",
   "scripts": {
@@ -17,11 +17,11 @@
     "barcode",
     "promise"
   ],
-	"contributors": [
-		"Jess Telford <jess@jes.st> (http://jes.st)",
-		"Lazar Laszlo (http://lazarsoft.info)",
-		"Stuart P. Bentley <stuart@testtrack4.com> (https://stuartpb.com/)"
-	],
+  "contributors": [
+    "Jess Telford <jess@jes.st> (http://jes.st)",
+    "Lazar Laszlo (http://lazarsoft.info)",
+    "Stuart P. Bentley <stuart@testtrack4.com> (https://stuartpb.com/)"
+  ],
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/stuartpb/qrstuv/issues"
