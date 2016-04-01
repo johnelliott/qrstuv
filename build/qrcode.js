@@ -2924,9 +2924,7 @@ qrcode.decode = function(src) {
         }
         catch (e) {
           qrcode.result = null;
-          throw new Error(
-            "Cross domain image reading not supported in your browser! " +
-            "Save it to your computer then drag and drop the file!");
+          throw e;
         }
 
         return resolve(qrcode.result = qrcode.process(context));
