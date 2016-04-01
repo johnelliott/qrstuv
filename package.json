@@ -1,28 +1,30 @@
 {
-  "name": "zxing",
+  "name": "qrstuv",
   "version": "0.1.0",
-  "description": "A port of LazarSoft's jsqrcode to npm (see https://github.com/LazarSoft/jsqrcode)",
+  "description": "A clean and modern QR code reader for browsers",
   "main": "lib/qrcode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jesstelford/jsqrcode.git"
+    "url": "https://github.com/stuartpb/qrstuv.git"
   },
   "keywords": [
     "xzing",
     "QR",
     "code",
-    "barcode"
+    "barcode",
+    "promise"
   ],
 	"contributors": [
 		"Jess Telford <jess@jes.st> (http://jes.st)",
-		"Lazar Laszlo (http://lazarsoft.info)"
+		"Lazar Laszlo (http://lazarsoft.info)",
+		"Stuart P. Bentley <stuart@testtrack4.com> (https://stuartpb.com/)"
 	],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/jesstelford/jsqrcode/issues"
+    "url": "https://github.com/stuartpb/qrstuv/issues"
   },
-  "homepage": "https://github.com/jesstelford/jsqrcode"
+  "homepage": "https://github.com/stuartpb/qrstuv"
 }
