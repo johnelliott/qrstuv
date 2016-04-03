@@ -1,6 +1,6 @@
 {
   "name": "qrstuv",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A clean and modern QR code reader for browsers",
   "main": "lib/qrcode.js",
   "scripts": {
